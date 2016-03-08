@@ -1,0 +1,179 @@
+version: 1
+
+dn: uid=8G4FSGWECGGOVQE4,ou=users,dc=hspconsortium,dc=org
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: pwmUser
+objectClass: person
+objectClass: organizationalPerson
+cn: DA9qwJ2Je0gtIJN4xLvz
+sn: oML3TYAH9AyXDangXG11
+displayName: Seth Russell
+givenName: Yv8nf78pVXGONTOzLIjR
+mail: u0927352@utah.edu
+uid: magiclantern
+uid: 8G4FSGWECGGOVQE4
+userPassword:: e1NTSEF9ME1CVHJoMjBOUHQzZnB5L2xJS01DcG1kc09LWENZdG1ncjVJVWc9P
+ Q==
+pwmGUID: 539c53b0-ae72-4e8e-af5c-3f176ff2352b
+
+dn: uid=C9KSGNAH9Y5ICAC4,ou=users,dc=hspconsortium,dc=org
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: pwmUser
+objectClass: person
+objectClass: organizationalPerson
+cn: afYP2fZcMid5xLPYI8ej
+sn: a7VfJiIHDwYXqC7IsHkb
+displayName: Prasad Matti Rao
+givenName: GltaRq4560N6MWGCDdho
+mail: pmatti@welldocinc.com
+uid: mattipr
+uid: C9KSGNAH9Y5ICAC4
+userPassword:: e1NTSEF9N3ZndHRGY3lEbUNJTVJ0OVA1ZlRpK3NpMk1MR0RLdm54SHBPVWc9P
+ Q==
+pwmGUID: 3f678b68-dea3-48f6-b44f-7ce555eb7ef5
+
+dn: uid=ZGIV583AOL46E690,ou=users,dc=hspconsortium,dc=org
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: pwmUser
+objectClass: person
+objectClass: organizationalPerson
+cn: OSRuW6u7UWpGr3XQd99r
+sn: oawLfIeLvk2bbhCQjQNi
+displayName: Richard Esmond
+givenName: lF0bTyrJWqRH72gUbK35
+mail: richard.esmond@gmail.com
+organizationName: dIBdHr7HvrtC8EMOYbB63a8gIn80TtCp
+uid: resmond00
+uid: ZGIV583AOL46E690
+userPassword:: e1NTSEF9STdnSm1PMm5keWdwY2pOdUdIc2l0NUg2dUp5S3dSam1XdFlFT1E9P
+ Q==
+pwmGUID: b0f7ebe7-a6e3-40a5-aabc-b54fe72d4473
+
+dn: uid=test,ou=users,dc=hspconsortium,dc=org
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: pwmUser
+objectClass: person
+objectClass: organizationalPerson
+cn: test
+sn: User
+uid: test
+userPassword:: e1NTSEF9VW5SdHNoTk03Z1F3UmhMRzM2b1U0bjUycVBFZm9GM1NPdHB1elE9P
+ Q==
+pwmGUID: 8646f4f0-2bca-4319-8d78-6c773d89fa29
+
+dn: ou=users,dc=hspconsortium,dc=org
+objectClass: top
+objectClass: organizationalUnit
+ou: users
+description: Container for hspc self service users
+
+dn: uid=06LRWR06EUGCB6I8,ou=users,dc=hspconsortium,dc=org
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: pwmUser
+objectClass: person
+objectClass: organizationalPerson
+cn: VBFYBu7MZ0FhyLbl1Qrt
+sn: h3FofD23vZv3m4S4P8HQ
+displayName: Ian McNicll
+givenName: 12Uva7yy4VVCdrDMfpAw
+mail: ian@freshehr.com
+uid: ianmcnicoll
+uid: 06LRWR06EUGCB6I8
+userPassword:: e1NTSEF9S0RaTmo2SGp3eGx3MnZJRFlWTVJ6RkpqdE9Lb0JGU3FXSDZSMmc9P
+ Q==
+pwmGUID: 5db56874-dccb-4866-bc29-58981db325a4
+
+dn: uid=G9954LCDEC78F325,ou=users,dc=hspconsortium,dc=org
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: pwmUser
+objectClass: person
+objectClass: organizationalPerson
+cn: RvXy4LtY6ROkCMu3AA7r
+sn: gGxMswZCGPAG91U0mMhK
+displayName: aasdf
+givenName: 5traCNmKZJnZ2JwRYUTv
+mail: travis@isalussolutions.com
+organizationName: 1zhraTHZB8I8h6TVFkuYNvbY5ZhdXaG0
+uid: travis
+uid: G9954LCDEC78F325
+userPassword:: e1NTSEF9ZEZDcWYvM3JTeXlPMnZnQytPaTZkUjVrZVo0dVBsYk9CUk9DbUE9P
+ Q==
+pwmGUID: f4c6ae58-f884-4e82-a6e1-cf414db874ae
+
+dn: uid=WWU5ZJ3SB26PH6V5,ou=users,dc=hspconsortium,dc=org
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: pwmUser
+objectClass: person
+objectClass: organizationalPerson
+cn: P5czs5uUtrJdK2XRG87z
+sn: Fb3g9854l7nBYsueuUyB
+displayName: Teresa Wheeler`
+givenName: omKzUb9pONMOryvngPXq
+mail: teresa.wheeler@imail.org
+uid: teresaW
+uid: WWU5ZJ3SB26PH6V5
+userPassword:: e1NTSEF9TVc2ODZzbUJEN0lCam80RWJ4N2hDQWxxQWRLMEcwZHFmTitWeWc9P
+ Q==
+pwmGUID: dd9b15e7-95c5-4446-a043-dd8ce00eb9d5
+
+dn: uid=714RX626Y0V8Q6LO,ou=users,dc=hspconsortium,dc=org
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: pwmUser
+objectClass: person
+objectClass: organizationalPerson
+cn: loS3sGdcnRGmT63Dcvlg
+sn: gWsrxR2x5D5KVSSLGqLC
+displayName: Alan Cooper
+givenName: kFKmNBygve57OR1AF8Bk
+mail: acooper@mhealthbrain.com
+organizationName: bcNv9SimZzC1tax5ODkwpVJLJCEK17s3
+uid: acooper
+uid: 714RX626Y0V8Q6LO
+userPassword:: e1NTSEF9blFveWVzRnpTbHQ5MWsvV0VWZmlLdEFERkZmMndSTW1xUTF6VUE9P
+ Q==
+pwmGUID: 39c07a6d-a1c8-476f-b7b6-3fdfb660d0fb
+
+dn: uid=AP1GASW227LBYRTU,ou=users,dc=hspconsortium,dc=org
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: pwmUser
+objectClass: person
+objectClass: organizationalPerson
+cn: cPdaMYGA9ctBm7pmL7hW
+sn: zajHZiJwn3TXhgXENjnp
+displayName: Noman Rahman
+givenName: MeUBHOpCeHvg8brpBOLW
+mail: noman.rahman@imail.org
+organizationName: CRBYrFHFSAzgfMmtsTgT2fmoBjxEfHmu
+uid: noman
+uid: AP1GASW227LBYRTU
+userPassword:: e1NTSEF9aEdDMFNTOCs3Y25aKzgrdDBoYjF6Q1R1L2o5bzg2blN5OFJTeUE9P
+ Q==
+pwmGUID: 79378fc8-235a-46ae-a380-849055331d57
+
+dn: uid=Y422PREJKESW3HAH,ou=users,dc=hspconsortium,dc=org
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: pwmUser
+objectClass: person
+objectClass: organizationalPerson
+cn: vPBvg1DSbVNSOGLBurb4
+sn: 0oXVAjW80ANzmCieO6qx
+displayName: Jin Yang
+givenName: AJzwO3YZnWsE7XUv3MA7
+mail: jin.yang@cambiahealth.com
+organizationName: OdnMTnyHW6nv4GcXBkBumepQVV3hGkZd
+uid: hspc15
+uid: Y422PREJKESW3HAH
+userPassword:: e1NTSEF9UXArNitiUHB2bERzQzVib1BNRXZudUU1N2lPZi9lR21IWSsyTGc9P
+ Q==
+pwmGUID: 7bd7b2a4-bf8e-494f-84d6-1b8a27e5dd9d
+
