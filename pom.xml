@@ -19,7 +19,7 @@
 
     <properties>
         <java.version>1.7</java.version>
-        <reference-auth-security.version>0.10-SNAPSHOT</reference-auth-security.version>
+        <reference-auth-security.version>0.10</reference-auth-security.version>
         <reference-auth-webapp.version>0.10-SNAPSHOT</reference-auth-webapp.version>
         <mitreid.version>1.2.0</mitreid.version>
         <mitreid.springframework.security.version>3.2.7.RELEASE</mitreid.springframework.security.version>
@@ -46,7 +46,6 @@
         <dependency>
             <groupId>org.hspconsortium.reference</groupId>
             <artifactId>hspc-reference-auth-security</artifactId>
-            <type>jar</type>
             <version>${reference-auth-security.version}</version>
             <exclusions>
                 <exclusion>
