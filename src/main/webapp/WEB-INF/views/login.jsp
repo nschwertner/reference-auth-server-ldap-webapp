@@ -36,13 +36,13 @@
             <form action="<%=request.getContextPath()%>/j_spring_security_check"
                   method="POST">
                 <div>
-                    <img src="static/images/hspc-logo.png"/>
+                    <img src="static/images/company-logo.png"/>
                 </div>
                 <div>
                     <div class="input-prepend input-block-level">
                         <%--<span class="add-on"> <i class='login-form-input-icon fa fa-user fa-lg'></i></span>--%>
                         <span class="add-on"><i class="icon-user"></i></span>
-                        <input type="text" placeholder="Email Address" autocorrect="off" autocapitalize="off" required
+                        <input type="text" placeholder="User Name" autocorrect="off" autocapitalize="off" required
                                autocomplete="off" spellcheck="false" value="<c:out value="${ login_hint }" />"
                                id="j_username" name="j_username">
                     </div>
