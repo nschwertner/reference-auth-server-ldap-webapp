@@ -1,4 +1,4 @@
-<%@ taglib prefix="authz" uri="http://www.springframework.org/security/tags" %>
+ <%@ taglib prefix="authz" uri="http://www.springframework.org/security/tags" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib prefix="o" tagdir="/WEB-INF/tags" %>
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags" %>
@@ -60,11 +60,11 @@
                 </div>
                 <div>
 					<span class="help-block pull-left">
-						<a href="https://sandbox.hspconsortium.org/pwm/public/newuser" name="register_new_account"
+						<a href="https://service.smarthealthit.org/public/NewUser" name="register_new_account"
                            target="_self" class="login-form-text">Create New Account</a>
      				</span>
                     <span class="help-block pull-right">
-                        <a href="https://sandbox.hspconsortium.org/pwm/public/forgottenpassword" name="forgot_password"
+                        <a href="https://service.smarthealthit.org/public/ForgottenPassword" name="forgot_password"
                            target="_self" class="login-form-text">Forgot Password?</a>
                         </span>
 
