@@ -5,5 +5,5 @@ ldap.base=dc=hspconsortium,dc=org
 ldap.userDn=uid=admin,ou=system
 ldap.password=secret
 ldap.pooled=false
-newUserUrl=https://sandbox.hspconsortium.org/pwm/public/newuser
-forgotPasswordUrl=https://sandbox.hspconsortium.org/pwm/public/forgottenpassword
+newUserUrl=https://test-ldap.hspconsortium.org/pwm/public/newuser
+forgotPasswordUrl=https://test-ldap.hspconsortium.org/pwm/public/forgottenpassword
