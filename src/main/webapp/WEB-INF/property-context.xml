@@ -36,6 +36,6 @@
   </bean>
 
   <!-- make these available to login.jsp -->
-  <util:properties id="propertyConfigurer" location="classpath:config/ldap.properties"/>
+  <util:properties id="ldapProperties" location="classpath:config/ldap.properties"/>
 
 </beans>
