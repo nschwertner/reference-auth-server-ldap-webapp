@@ -59,11 +59,13 @@
                 </div>
                 <div>
 					<span class="help-block pull-left">
-						<a href="https://sandbox.hspconsortium.org/pwm/public/newuser" name="register_new_account"
+                        <spring:eval var="newUserUrl" expression="@ldapProperties.newUserUrl" />
+						<a href="${newUserUrl}" name="register_new_account"
                            target="_self" class="login-form-text">Create New Account</a>
      				</span>
                     <span class="help-block pull-right">
-                        <a href="https://sandbox.hspconsortium.org/pwm/public/forgottenpassword" name="forgot_password"
+                        <spring:eval var="forgotPasswordUrl" expression="@ldapProperties.forgotPasswordUrl" />
+                        <a href="${forgotPasswordUrl}" name="forgot_password"
                            target="_self" class="login-form-text">Forgot Password?</a>
                         </span>
 

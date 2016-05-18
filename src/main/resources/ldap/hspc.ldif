@@ -1,11 +1,6 @@
 version: 1
 
 dn: dc=hspconsortium,dc=org
-objectClass: top
-objectClass: domain
-dc: hspconsortium
-
-dn: dc=hspconsortium,dc=org
 changetype: modify
 add: administrativeRole
 administrativeRole: accessControlSpecificArea
